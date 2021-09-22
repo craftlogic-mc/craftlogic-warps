@@ -1,0 +1,27 @@
+commands.warp.usage=/warp <название> [create|delete|public|private] ИЛИ /warp <название> invite|expel|transfer <игрок>
+commands.warp.disabled=Варпы отключены!
+commands.warp.create.success=Варп %s успешно создан!
+commands.warp.create.exists=Варп %s уже существует!
+commands.warp.delete.success=Варп %s успешно удалён!
+commands.warp.not-found=Варп %s не найден!
+commands.warp.not-an-owner=Вы не владеете варпом %s!
+commands.warp.invite.public=Нельзя приглашать на публичный варп!
+commands.warp.invite.already=Игрок %s уже и так приглашён на ваш варп!
+commands.warp.invite.success=Вы успешно пригласили игрока %s на свой варп!
+commands.warp.expel.public=Нельзя выгонять с публичный варпа!
+commands.warp.expel.already=Игрок %s не приглашён на ваш варп!
+commands.warp.expel.success=Вы успешно выгнали игрока %s со своего варпа!
+commands.warp.public.already=Варп %s уже и так публичный!
+commands.warp.public.success=Теперь на варп %s могут телепортироваться все!
+commands.warp.private.already=Варп %s уже и так приватный!
+commands.warp.private.success=Теперь на варп %s могут телепортироваться только приглашённые игроки!
+commands.warp.delete.question=Вы действительно хотите удалить варп %s?
+commands.warp.teleport=Добро пожаловать на варп %s!
+commands.warp.spawn=Добро пожаловать на спавн!
+commands.warp.teleport.dimension=Варп %s находится в другом измерении!
+commands.warp.teleport.private=Доступ к варпу %s ограничен!
+commands.warp.transfer.yourself=Нельзя передать варп самому себе!
+commands.warp.transfer.question=Вы уверены, что хотите передать варп %s игроку %s?
+commands.warp.transfer.success=Успешно передали варп %s игроку %s!
+
+tooltip.warp_teleport=Телепортация на варп...

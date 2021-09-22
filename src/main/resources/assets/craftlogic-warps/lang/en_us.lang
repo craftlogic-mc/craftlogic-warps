@@ -1,0 +1,27 @@
+commands.warp.usage=/warp <name> [create|delete||public|private] OR /warp <name> invite|expel|transfer <player>
+commands.warp.disabled=Warps are disabled!
+commands.warp.create.success=Successfully created warp %s!
+commands.warp.create.exists=Warp %s already exists!
+commands.warp.delete.success=Successfully deleted warp %s!
+commands.warp.not-found=Warp %s cannot be found!
+commands.warp.not-an-owner=You do not own warp %s!
+commands.warp.invite.public=Cannot invite to a public warp!
+commands.warp.invite.already=Player %s is already invited to your warp!
+commands.warp.invite.success=Successfully invited player %s to your warp!
+commands.warp.expel.public=Cannot expel from a public warp!
+commands.warp.expel.already=Player %s is not invited to your warp!
+commands.warp.expel.success=Successfully expelled player %s from your warp!
+commands.warp.public.already=Warp %s is already public!
+commands.warp.public.success=Now everybody is allowed to teleport to warp %s!
+commands.warp.private.already=Warp %s is already private!
+commands.warp.private.success=Now only invited player are allowed to teleport to warp %s!
+commands.warp.delete.question=Are you sure you want to delete warp %s?
+commands.warp.teleport=Welcome to warp %s!
+commands.warp.spawn=Welcome to spawn!
+commands.warp.teleport.dimension=Warp %s is located in another dimension!
+commands.warp.teleport.private=Access to warp %s is restricted!
+commands.warp.transfer.yourself=Cannot transfer warp to yourself!
+commands.warp.transfer.question=Are you sure you want to transfer warp %s to %s?
+commands.warp.transfer.success=Successfully transferred warp %s to %s!
+
+tooltip.warp_teleport=Warping...
