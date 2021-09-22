@@ -24,7 +24,7 @@ public class CommandWarp extends CommandBase {
     public CommandWarp() {
         super("warp", 1,
             "<name:Warp> create|delete|public|private",
-            "<name:Warp> invite|expel <target:Player>",
+            "<name:Warp> invite|expel|transfer <target:Player>",
             "<name:Warp>"
         );
     }
