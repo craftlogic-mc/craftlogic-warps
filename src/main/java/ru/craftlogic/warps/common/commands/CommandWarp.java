@@ -132,7 +132,7 @@ public class CommandWarp extends CommandBase {
                             );
                             return null;
                         };
-                        ctx.sender().sendQuestionIfPlayer("transfer-warp", new TextComponentTranslation("commands.warp.transfer.question", name), 60, choice -> {
+                        ctx.sender().sendQuestionIfPlayer("transfer-warp", new TextComponentTranslation("commands.warp.transfer.question", name, target.getName()), 60, choice -> {
                             if (choice) {
                                 try {
                                     task.call();

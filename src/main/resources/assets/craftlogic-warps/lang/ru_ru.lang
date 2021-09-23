@@ -21,7 +21,7 @@ commands.warp.spawn=Добро пожаловать на спавн!
 commands.warp.teleport.dimension=Варп %s находится в другом измерении!
 commands.warp.teleport.private=Доступ к варпу %s ограничен!
 commands.warp.transfer.yourself=Нельзя передать варп самому себе!
-commands.warp.transfer.question=Вы уверены, что хотите передать варп %s игроку %s?
+commands.warp.transfer.question=Вы действительно хотите передать варп %s игроку %s?
 commands.warp.transfer.success=Успешно передали варп %s игроку %s!
 
 tooltip.warp_teleport=Телепортация на варп...
